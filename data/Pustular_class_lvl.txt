@@ -1,0 +1,17 @@
+Class	Layer 1 (0-2 mm)	Layer 2 (2-4 mm)	Layer 3 (4-6 mm)	Layer 4 (6-8 mm)	Layer 5 (8-10 mm)
+Halobacteria	63.91	76.16	83.42	74.94	64.91
+MBGB	0.06	0.01	0.04	0.01	0
+Micrarchaea	0.01	0.01	0	0	0.01
+Thermoplasmata	0.64	0.15	0.08	0.26	0.19
+Parvarchaea	33.34	22.83	15.25	21.54	32.18
+Methanomicrobia	0.27	0.19	0.28	0.26	0.77
+Thaumarchaeota	1.38	0.4	0.69	2.71	1.34
+Thermoprotei	0.09	0.02	0.04	0.04	0.13
+Methanococci	0.08	0.03	0.02	0.05	0.1
+Thermococci	0.13	0.12	0.07	0.08	0.15
+Methanobacteria	0.02	0.01	0.01	0.01	0.02
+DSEG	0	0.01	0	0.01	0.02
+MCG	0	0.02	0.03	0	0.04
+Aigarchaeota	0.07	0.05	0.06	0.09	0.15
+MHVG	0	0	0	0	0
+Nanoarchaeoti	0	0	0	0	0

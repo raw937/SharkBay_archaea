@@ -1,0 +1,11 @@
+Layer_no	depth	parameter
+Layer 1	0-2 mm	Surface
+Layer 2	2-4 mm	Subsurface
+Layer 3	4-6 mm	Transition zone
+Layer 4	6-8 mm	anoxic zone
+Layer 5	8-10 mm	anoxic zone
+Layer 6	10-12 mm	anoxic zone
+Layer 7	12-14 mm	anoxic zone
+Layer 8	14-16 mm	anoxic zone
+Layer 9	16-18 mm	anoxic zone
+Layer 10	18-20 mm	Bottom
