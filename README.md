@@ -1,6 +1,6 @@
 ### Dynamics of archaea at fine spatial scales in Shark Bay mat microbiomes
 
-Manuscript is currently accepted.
+Manuscript is currently published.
 
 This is the code and analysis for this article. 
 
