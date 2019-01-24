@@ -4,7 +4,7 @@ Manuscript is currently accepted.
 
 This is the code and analysis for this article. 
 
-Journal Article is: Hon Lun Wong, Pieter T Visscher, Richard Allen White III, Daniela-Lee Smith, Molly M Patterson, Brendan P Burns **Dynamics of archaea at fine spatial scales in Shark Bay mat microbiomes** [paper](https://www.nature.com/articles/srep46160) 
+Journal Article is: Hon Lun Wong, Pieter T Visscher, Richard Allen White III, Daniela-Lee Smith, Molly M Patterson, Brendan P Burns.<br /> **Dynamics of archaea at fine spatial scales in Shark Bay mat microbiomes** [paper](https://www.nature.com/articles/srep46160) 
 
 **Analysis**
 
